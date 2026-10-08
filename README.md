@@ -51,7 +51,3 @@ Regenerate with `python figures/make_figures.py` (needs `matplotlib`, `pandas`, 
 ![FPSO nine-line mooring 3D schematic](figures/fig3_mooring_3d.png)
 
 Schematic illustration rendered in Python (matplotlib) - not ANSYS/Fluent/STAR-CCM+ output. Regenerate with `python figures/make_3d_schematic.py` (needs `matplotlib`, `numpy`). The 9 mooring lines and fairlead/anchor layout illustrate the physical system whose endpoint loads this project predicts.
-
-![Innovation: finite (truncated) physical memory states beat persistent memory at every window length.](figures/fig4_memory_window.png)
-
-*Innovation: finite (truncated) physical memory states beat persistent memory at every window length. Regenerate with `python figures/make_innovation_figure.py`.*

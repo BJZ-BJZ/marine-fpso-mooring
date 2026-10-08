@@ -97,5 +97,8 @@ print('lines:', n)
 ax.text(0, 0, D+22, 'FPSO hull', fontsize=9, ha='center')
 ax.text(300, 250, -DEPTH+4, 'seabed', fontsize=9)
 ax.text(200, -260, -40, 'mooring line (x9)', fontsize=9, color='#1f4e79')
+ax.text2D(0.02, 0.96, 'Innovation: physical memory states\nTruncated (finite) memory beats persistent memory\nat every window  -  w41: 3.14 vs 3.52 kN (-0.38 kN)',
+    transform=ax.transAxes, fontsize=8.5, va='top', ha='left',
+    bbox=dict(boxstyle='round,pad=0.4', facecolor='white', alpha=0.88))
 finish(ax, str(Path(__file__).parent / 'fig3_mooring_3d.png'),
        'FPSO nine-line mooring system - 3D schematic', elev=16, azim=-62)
