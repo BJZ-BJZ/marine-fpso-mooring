@@ -37,3 +37,9 @@
 ![Case 32 tension time series](figures/fig2_case32_tension_timeseries.png)
 
 Regenerate with `python figures/make_figures.py` (needs `matplotlib`, `pandas`, `numpy`).
+
+### 3D schematic illustration
+
+![FPSO nine-line mooring 3D schematic](figures/fig3_mooring_3d.png)
+
+Schematic illustration rendered in Python (matplotlib) - not ANSYS/Fluent/STAR-CCM+ output. Regenerate with `python figures/make_3d_schematic.py` (needs `matplotlib`, `numpy`). The 9 mooring lines and fairlead/anchor layout illustrate the physical system whose endpoint loads this project predicts.
