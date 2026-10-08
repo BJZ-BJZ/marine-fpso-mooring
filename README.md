@@ -1,5 +1,13 @@
 # FPSO 九线系泊载荷与物理记忆状态
 
+## 效果展示
+
+<p align="center">
+  <img src="figures/fig3_mooring_3d.png" width="49%" />
+  <img src="figures/fig2_case32_tension_timeseries.png" width="49%" />
+</p>
+
+
 ## 问题与方法
 
 研究九线转塔 FPSO 的端点受力定义、有限运动记录的信息限制与物理状态近似。几何沿用公开 322 m FPSO；1535 m 水深，链—钢丝绳—链。MoorDyn 是标签生成求解器，船体运动人为规定；波浪、海流和附加质量在当前实验关闭。
