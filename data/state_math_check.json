@@ -1,0 +1,10 @@
+{
+  "status": "PASS_STATE_MATH_AND_CAUSALITY",
+  "finite_convolution_max_error": 2.1316282072803006e-13,
+  "largest_discrete_pole_magnitude": 0.9995766163652233,
+  "homogeneous_energy_violation": 0.0,
+  "zero_record_finite_state_exact": true,
+  "persistent_state_survives_zero_record": true,
+  "filter_and_state_future_invariance": true,
+  "scope": "State mathematics and causal implementation; not a proof that learned force readouts or MoorDyn trajectories satisfy this latent energy function."
+}

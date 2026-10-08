@@ -1,0 +1,16 @@
+{
+  "version": "0.5.0",
+  "asset_name": "fpso-endpoint-reproduction-v0.5.0.zip",
+  "bytes": 206676316,
+  "sha256": "8c8e8368dcf5a561a2e89341b48c144716a7bc19a44c42b335d028668e499a4d",
+  "original_archive_sha256": "98bec21735470ca7a0e2bd03c3bf5b1407d7d559102da21258ff1a4903c132ae",
+  "members": 426,
+  "transformation": "Subset archive with original frozen source/model/data bytes preserved; exclude paper_stage14, editorial notes and auxiliary plotting/paper automation",
+  "excluded_publication_material": [
+    "manuscript.tex",
+    "results_commands.tex",
+    "paper figures",
+    "editorial notes",
+    "native binaries"
+  ]
+}

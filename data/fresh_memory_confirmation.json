@@ -1,0 +1,140 @@
+{
+  "status": "PREDECLARED_FRESH_PREFIX_REPLICATION",
+  "cases": [
+    38,
+    39,
+    40,
+    41
+  ],
+  "window_s": [
+    78.1,
+    120
+  ],
+  "input_discrepancies": {
+    "position": 0.0,
+    "velocity": 0.0,
+    "acceleration": 0.0
+  },
+  "scalar_constant_record_floor_kN": 0.47767622033168233,
+  "scalar_time_aware_floor_kN": 0.43507958419630527,
+  "vector_constant_record_floor_kN": 0.5069626080221601,
+  "vector_time_aware_floor_kN": 0.4570126690887611,
+  "max_pointwise_scalar_range_kN": 2.8812654195243956,
+  "pointwise_minimax_lower_bound_kN": 1.4406327097621978,
+  "zero_acceleration_reference_anchor_rmse_kN": 0.4829651112435408,
+  "methods": {
+    "anchored_linear": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "anchored_rff": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "anchored_tanh": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "dissipative_state": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "fine_modal_learned_q12": {
+      "pooled_rmse_kN": 11.281936236868438,
+      "max_prefix_prediction_range_kN": 56.80925643201673
+    },
+    "fine_modal_learned_q3": {
+      "pooled_rmse_kN": 11.567252235461725,
+      "max_prefix_prediction_range_kN": 38.21642178410094
+    },
+    "fine_modal_learned_q6": {
+      "pooled_rmse_kN": 11.578744959959423,
+      "max_prefix_prediction_range_kN": 48.29590627745876
+    },
+    "fine_modal_physical_q12": {
+      "pooled_rmse_kN": 14.198962230888949,
+      "max_prefix_prediction_range_kN": 83.78778267263039
+    },
+    "fine_modal_physical_q3": {
+      "pooled_rmse_kN": 6.450414897879549,
+      "max_prefix_prediction_range_kN": 17.554450172705344
+    },
+    "fine_modal_physical_q6": {
+      "pooled_rmse_kN": 7.388158096740573,
+      "max_prefix_prediction_range_kN": 24.370798591807716
+    },
+    "fixed_physics_state": {
+      "pooled_rmse_kN": 2.796219985751986,
+      "max_prefix_prediction_range_kN": 12.982716680905666
+    },
+    "gated_linear": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "gated_tanh": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "generic_persistent_reservoir": {
+      "pooled_rmse_kN": 1.120115801604072,
+      "max_prefix_prediction_range_kN": 7.727181633482105
+    },
+    "independent_quasistatic": {
+      "pooled_rmse_kN": 0.47777548946437043,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "load_modal_learned_q12": {
+      "pooled_rmse_kN": 2.843394936970558,
+      "max_prefix_prediction_range_kN": 12.930695930812508
+    },
+    "load_modal_learned_q3": {
+      "pooled_rmse_kN": 9.636453571588323,
+      "max_prefix_prediction_range_kN": 45.34913573572238
+    },
+    "load_modal_learned_q6": {
+      "pooled_rmse_kN": 9.758493571170973,
+      "max_prefix_prediction_range_kN": 54.64429087186477
+    },
+    "load_modal_physical_q12": {
+      "pooled_rmse_kN": 14.272176963903748,
+      "max_prefix_prediction_range_kN": 80.87541267207102
+    },
+    "load_modal_physical_q3": {
+      "pooled_rmse_kN": 13.62379602543231,
+      "max_prefix_prediction_range_kN": 79.8203842357085
+    },
+    "load_modal_physical_q6": {
+      "pooled_rmse_kN": 14.266678525678683,
+      "max_prefix_prediction_range_kN": 82.75050399931345
+    },
+    "nonlinear_static": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "persistent_exponential": {
+      "pooled_rmse_kN": 0.5687371169292682,
+      "max_prefix_prediction_range_kN": 1.9399874652109574
+    },
+    "persistent_physics_linear": {
+      "pooled_rmse_kN": 1.8824896362354955,
+      "max_prefix_prediction_range_kN": 9.06897846216662
+    },
+    "persistent_physics_rff": {
+      "pooled_rmse_kN": 0.936011898270339,
+      "max_prefix_prediction_range_kN": 5.468431984052178
+    },
+    "physical_rom": {
+      "pooled_rmse_kN": 0.5336803049315261,
+      "max_prefix_prediction_range_kN": 1.4387477618373232
+    },
+    "truncated_physics_linear": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    },
+    "truncated_physics_rff": {
+      "pooled_rmse_kN": 0.4829651112435408,
+      "max_prefix_prediction_range_kN": 0.0
+    }
+  },
+  "scope": "Conditional empirical floors for four fresh prefixes under the same eight-second zero record; not an error bound for arbitrary environments or a population-level theorem."
+}

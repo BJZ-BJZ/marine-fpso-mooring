@@ -1,0 +1,1212 @@
+{
+  "status": "SECONDARY_FROZEN_VECTOR_TARGET_TEST",
+  "rows": [
+    {
+      "case": 32,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 46.860558171428735,
+      "load_magnitude_RMS_kN": 46.34262774917222,
+      "resultant_force_RMS_kN": 343.8535357175936,
+      "turret_moment_RMS_kNm": 468.0044616536617
+    },
+    {
+      "case": 32,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 8.680779073978648,
+      "load_magnitude_RMS_kN": 8.537974722493104,
+      "resultant_force_RMS_kN": 49.98901833139017,
+      "turret_moment_RMS_kNm": 127.6200755109473
+    },
+    {
+      "case": 32,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 10.331215645164102,
+      "load_magnitude_RMS_kN": 10.169513182451041,
+      "resultant_force_RMS_kN": 58.14761963915347,
+      "turret_moment_RMS_kNm": 146.3100418235603
+    },
+    {
+      "case": 33,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 32.56815050827491,
+      "load_magnitude_RMS_kN": 32.37217071597138,
+      "resultant_force_RMS_kN": 244.89984269564272,
+      "turret_moment_RMS_kNm": 209.06438518535572
+    },
+    {
+      "case": 33,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.8031355118911025,
+      "load_magnitude_RMS_kN": 2.7162898697483757,
+      "resultant_force_RMS_kN": 14.62312772430745,
+      "turret_moment_RMS_kNm": 48.97389956544417
+    },
+    {
+      "case": 33,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.60421122438187,
+      "load_magnitude_RMS_kN": 3.512853062502811,
+      "resultant_force_RMS_kN": 18.345954082450277,
+      "turret_moment_RMS_kNm": 53.452743983370105
+    },
+    {
+      "case": 34,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 20.57222865112448,
+      "load_magnitude_RMS_kN": 20.378129728798164,
+      "resultant_force_RMS_kN": 149.30873565575195,
+      "turret_moment_RMS_kNm": 194.16317843535685
+    },
+    {
+      "case": 34,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.740507106297065,
+      "load_magnitude_RMS_kN": 2.666783195288903,
+      "resultant_force_RMS_kN": 16.937134541260818,
+      "turret_moment_RMS_kNm": 45.11105406827101
+    },
+    {
+      "case": 34,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.1055138963369657,
+      "load_magnitude_RMS_kN": 3.0198782050488457,
+      "resultant_force_RMS_kN": 18.73054512878897,
+      "turret_moment_RMS_kNm": 45.13880296652157
+    },
+    {
+      "case": 35,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 30.657611224068816,
+      "load_magnitude_RMS_kN": 30.32084298991151,
+      "resultant_force_RMS_kN": 222.57192193226436,
+      "turret_moment_RMS_kNm": 304.0683253791871
+    },
+    {
+      "case": 35,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 4.258049831338414,
+      "load_magnitude_RMS_kN": 4.145253062253769,
+      "resultant_force_RMS_kN": 26.21325418989067,
+      "turret_moment_RMS_kNm": 66.7072740221899
+    },
+    {
+      "case": 35,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 4.598721443847298,
+      "load_magnitude_RMS_kN": 4.487146517774027,
+      "resultant_force_RMS_kN": 28.799622337011698,
+      "turret_moment_RMS_kNm": 69.01526788041825
+    },
+    {
+      "case": 36,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 37.14261142633061,
+      "load_magnitude_RMS_kN": 36.677280826213625,
+      "resultant_force_RMS_kN": 269.8410220032271,
+      "turret_moment_RMS_kNm": 395.1297594392065
+    },
+    {
+      "case": 36,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.712614398565413,
+      "load_magnitude_RMS_kN": 3.6125065854488447,
+      "resultant_force_RMS_kN": 20.564170884107263,
+      "turret_moment_RMS_kNm": 56.26559987534459
+    },
+    {
+      "case": 36,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 4.380275032030598,
+      "load_magnitude_RMS_kN": 4.277622313674149,
+      "resultant_force_RMS_kN": 22.144189292637304,
+      "turret_moment_RMS_kNm": 67.60963442432703
+    },
+    {
+      "case": 37,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 33.15356630418399,
+      "load_magnitude_RMS_kN": 32.680000841339606,
+      "resultant_force_RMS_kN": 233.76722761522538,
+      "turret_moment_RMS_kNm": 396.428049815947
+    },
+    {
+      "case": 37,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 5.346044937247392,
+      "load_magnitude_RMS_kN": 5.174800614214549,
+      "resultant_force_RMS_kN": 32.40109851782471,
+      "turret_moment_RMS_kNm": 87.03177631469225
+    },
+    {
+      "case": 37,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 5.455265392257367,
+      "load_magnitude_RMS_kN": 5.2809696091943445,
+      "resultant_force_RMS_kN": 33.431220980480944,
+      "turret_moment_RMS_kNm": 83.89657388653355
+    },
+    {
+      "case": 38,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 20.230349271353617,
+      "load_magnitude_RMS_kN": 20.017005214827293,
+      "resultant_force_RMS_kN": 146.12963883461603,
+      "turret_moment_RMS_kNm": 196.7890324546886
+    },
+    {
+      "case": 38,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 15.580497968154626,
+      "load_magnitude_RMS_kN": 15.201778090772732,
+      "resultant_force_RMS_kN": 108.72436266509992,
+      "turret_moment_RMS_kNm": 198.11802078674322
+    },
+    {
+      "case": 38,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.2207317109433453,
+      "load_magnitude_RMS_kN": 1.1071770902658915,
+      "resultant_force_RMS_kN": 6.206958306612467,
+      "turret_moment_RMS_kNm": 28.71057243576082
+    },
+    {
+      "case": 38,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.2972074822507223,
+      "load_magnitude_RMS_kN": 0.2662927284172862,
+      "resultant_force_RMS_kN": 1.246465856937994,
+      "turret_moment_RMS_kNm": 7.309847504222502
+    },
+    {
+      "case": 38,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.9261828819593743,
+      "load_magnitude_RMS_kN": 2.8608444065866787,
+      "resultant_force_RMS_kN": 15.2623162355126,
+      "turret_moment_RMS_kNm": 46.084964845037774
+    },
+    {
+      "case": 38,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 4.010558002773076,
+      "load_magnitude_RMS_kN": 3.953430446176703,
+      "resultant_force_RMS_kN": 16.13417640297151,
+      "turret_moment_RMS_kNm": 63.84121913608019
+    },
+    {
+      "case": 38,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.2471192331218748,
+      "load_magnitude_RMS_kN": 1.1656439023550142,
+      "resultant_force_RMS_kN": 6.394050208149731,
+      "turret_moment_RMS_kNm": 23.952487772416877
+    },
+    {
+      "case": 38,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.2972074822507223,
+      "load_magnitude_RMS_kN": 0.2662927284172862,
+      "resultant_force_RMS_kN": 1.246465856937994,
+      "turret_moment_RMS_kNm": 7.309847504222502
+    },
+    {
+      "case": 38,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.0674874110401222,
+      "load_magnitude_RMS_kN": 3.0042393576779673,
+      "resultant_force_RMS_kN": 15.533123773490836,
+      "turret_moment_RMS_kNm": 52.319015515957446
+    },
+    {
+      "case": 38,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 4.309973429403417,
+      "load_magnitude_RMS_kN": 4.249432091957008,
+      "resultant_force_RMS_kN": 16.959426606099704,
+      "turret_moment_RMS_kNm": 81.26012973247703
+    },
+    {
+      "case": 38,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.3541953178723805,
+      "load_magnitude_RMS_kN": 1.2663770098282672,
+      "resultant_force_RMS_kN": 6.703059183987773,
+      "turret_moment_RMS_kNm": 24.981077216866524
+    },
+    {
+      "case": 38,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.6044734447363189,
+      "load_magnitude_RMS_kN": 0.5815428034045128,
+      "resultant_force_RMS_kN": 2.908236241333719,
+      "turret_moment_RMS_kNm": 9.90168871051384
+    },
+    {
+      "case": 39,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 22.38481704050142,
+      "load_magnitude_RMS_kN": 22.273817381875013,
+      "resultant_force_RMS_kN": 168.17673146606816,
+      "turret_moment_RMS_kNm": 123.87945823432793
+    },
+    {
+      "case": 39,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 9.200956911439215,
+      "load_magnitude_RMS_kN": 9.030966952354717,
+      "resultant_force_RMS_kN": 65.94470506937881,
+      "turret_moment_RMS_kNm": 112.89216419928603
+    },
+    {
+      "case": 39,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.485599667014937,
+      "load_magnitude_RMS_kN": 1.44123144973184,
+      "resultant_force_RMS_kN": 10.957329735506631,
+      "turret_moment_RMS_kNm": 17.85270340272831
+    },
+    {
+      "case": 39,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.5242593088087156,
+      "load_magnitude_RMS_kN": 0.5094090831823209,
+      "resultant_force_RMS_kN": 3.7268506030461976,
+      "turret_moment_RMS_kNm": 7.810565933976321
+    },
+    {
+      "case": 39,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.0681175325478636,
+      "load_magnitude_RMS_kN": 2.0126254463261564,
+      "resultant_force_RMS_kN": 11.136310530169556,
+      "turret_moment_RMS_kNm": 33.3255239635828
+    },
+    {
+      "case": 39,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.150629311389552,
+      "load_magnitude_RMS_kN": 2.0503530578814844,
+      "resultant_force_RMS_kN": 12.55001547609209,
+      "turret_moment_RMS_kNm": 33.22983547510543
+    },
+    {
+      "case": 39,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.345909011600733,
+      "load_magnitude_RMS_kN": 1.3243623088312877,
+      "resultant_force_RMS_kN": 8.690358935766776,
+      "turret_moment_RMS_kNm": 19.639124288648944
+    },
+    {
+      "case": 39,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.5242593088087156,
+      "load_magnitude_RMS_kN": 0.5094090831823209,
+      "resultant_force_RMS_kN": 3.7268506030461976,
+      "turret_moment_RMS_kNm": 7.810565933976321
+    },
+    {
+      "case": 39,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.409943152872896,
+      "load_magnitude_RMS_kN": 2.3594816622197343,
+      "resultant_force_RMS_kN": 13.56519757862919,
+      "turret_moment_RMS_kNm": 36.701323796121166
+    },
+    {
+      "case": 39,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.244154048104463,
+      "load_magnitude_RMS_kN": 2.144695912574279,
+      "resultant_force_RMS_kN": 12.870598855717981,
+      "turret_moment_RMS_kNm": 33.771973875201766
+    },
+    {
+      "case": 39,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.4548872015693832,
+      "load_magnitude_RMS_kN": 1.435944517969016,
+      "resultant_force_RMS_kN": 9.854390679796904,
+      "turret_moment_RMS_kNm": 17.278074635162024
+    },
+    {
+      "case": 39,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.7130207334024387,
+      "load_magnitude_RMS_kN": 0.696727764351613,
+      "resultant_force_RMS_kN": 4.357377991855402,
+      "turret_moment_RMS_kNm": 11.635059109958968
+    },
+    {
+      "case": 40,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 8.339244309237584,
+      "load_magnitude_RMS_kN": 8.267805575881919,
+      "resultant_force_RMS_kN": 63.72421047104853,
+      "turret_moment_RMS_kNm": 58.31303446317514
+    },
+    {
+      "case": 40,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 17.987125613977728,
+      "load_magnitude_RMS_kN": 17.849256654392672,
+      "resultant_force_RMS_kN": 137.82194361878885,
+      "turret_moment_RMS_kNm": 107.92249385038673
+    },
+    {
+      "case": 40,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.4845809643724923,
+      "load_magnitude_RMS_kN": 1.4272801464725926,
+      "resultant_force_RMS_kN": 10.37895850909366,
+      "turret_moment_RMS_kNm": 22.30208274384698
+    },
+    {
+      "case": 40,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.5132955387596311,
+      "load_magnitude_RMS_kN": 0.49402225283571166,
+      "resultant_force_RMS_kN": 3.5597359662319508,
+      "turret_moment_RMS_kNm": 8.138393488803587
+    },
+    {
+      "case": 40,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 1.979782260863598,
+      "load_magnitude_RMS_kN": 1.9225068211148337,
+      "resultant_force_RMS_kN": 12.395367784181907,
+      "turret_moment_RMS_kNm": 31.103730880776048
+    },
+    {
+      "case": 40,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.765903485373048,
+      "load_magnitude_RMS_kN": 2.6960284140467716,
+      "resultant_force_RMS_kN": 16.310215574213604,
+      "turret_moment_RMS_kNm": 40.93350524391271
+    },
+    {
+      "case": 40,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.7811559514494846,
+      "load_magnitude_RMS_kN": 1.7551251209070837,
+      "resultant_force_RMS_kN": 12.690520570883308,
+      "turret_moment_RMS_kNm": 21.171912476182115
+    },
+    {
+      "case": 40,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.5132955387596311,
+      "load_magnitude_RMS_kN": 0.49402225283571166,
+      "resultant_force_RMS_kN": 3.5597359662319508,
+      "turret_moment_RMS_kNm": 8.138393488803587
+    },
+    {
+      "case": 40,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.2294406907815807,
+      "load_magnitude_RMS_kN": 2.171884312997192,
+      "resultant_force_RMS_kN": 13.715510262812678,
+      "turret_moment_RMS_kNm": 36.59076595139163
+    },
+    {
+      "case": 40,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.9724997631252585,
+      "load_magnitude_RMS_kN": 2.905769401789797,
+      "resultant_force_RMS_kN": 17.166484800630528,
+      "turret_moment_RMS_kNm": 47.712751014600464
+    },
+    {
+      "case": 40,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.9557201588351762,
+      "load_magnitude_RMS_kN": 1.9288127425802137,
+      "resultant_force_RMS_kN": 13.359016891062796,
+      "turret_moment_RMS_kNm": 26.067550976545295
+    },
+    {
+      "case": 40,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.8957263372310781,
+      "load_magnitude_RMS_kN": 0.8798637451353502,
+      "resultant_force_RMS_kN": 5.292300368409805,
+      "turret_moment_RMS_kNm": 15.359286916930813
+    },
+    {
+      "case": 41,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 10.983866670422739,
+      "load_magnitude_RMS_kN": 10.865844537600298,
+      "resultant_force_RMS_kN": 82.46289403722906,
+      "turret_moment_RMS_kNm": 88.35093466039747
+    },
+    {
+      "case": 41,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 16.811522807202916,
+      "load_magnitude_RMS_kN": 16.67793058536992,
+      "resultant_force_RMS_kN": 129.9726856096029,
+      "turret_moment_RMS_kNm": 83.02548096884618
+    },
+    {
+      "case": 41,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 0.9417762445390433,
+      "load_magnitude_RMS_kN": 0.8999723918987945,
+      "resultant_force_RMS_kN": 6.5597687776383236,
+      "turret_moment_RMS_kNm": 12.01929013105533
+    },
+    {
+      "case": 41,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.4537907704812124,
+      "load_magnitude_RMS_kN": 0.4299415105459263,
+      "resultant_force_RMS_kN": 3.0523194579667217,
+      "turret_moment_RMS_kNm": 7.310268251397489
+    },
+    {
+      "case": 41,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.172407739667202,
+      "load_magnitude_RMS_kN": 2.130575677457816,
+      "resultant_force_RMS_kN": 12.476065497330485,
+      "turret_moment_RMS_kNm": 33.69900853360228
+    },
+    {
+      "case": 41,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.179410631072237,
+      "load_magnitude_RMS_kN": 3.104291296032683,
+      "resultant_force_RMS_kN": 17.027081126852952,
+      "turret_moment_RMS_kNm": 45.25052308232204
+    },
+    {
+      "case": 41,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.4560039468446206,
+      "load_magnitude_RMS_kN": 1.4325087638114713,
+      "resultant_force_RMS_kN": 9.12628214207461,
+      "turret_moment_RMS_kNm": 16.663009854715046
+    },
+    {
+      "case": 41,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.4537907704812124,
+      "load_magnitude_RMS_kN": 0.4299415105459263,
+      "resultant_force_RMS_kN": 3.0523194579667217,
+      "turret_moment_RMS_kNm": 7.310268251397489
+    },
+    {
+      "case": 41,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.6038384764274123,
+      "load_magnitude_RMS_kN": 2.5512383198273993,
+      "resultant_force_RMS_kN": 13.058454410081689,
+      "turret_moment_RMS_kNm": 41.707400229043294
+    },
+    {
+      "case": 41,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.3928212748908644,
+      "load_magnitude_RMS_kN": 3.307543412764697,
+      "resultant_force_RMS_kN": 17.72562376939386,
+      "turret_moment_RMS_kNm": 51.89745655464613
+    },
+    {
+      "case": 41,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 2.178350703019884,
+      "load_magnitude_RMS_kN": 2.1534125543791434,
+      "resultant_force_RMS_kN": 12.517945938109836,
+      "turret_moment_RMS_kNm": 30.342571626231663
+    },
+    {
+      "case": 41,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 1.0174844359584674,
+      "load_magnitude_RMS_kN": 0.9984343713248738,
+      "resultant_force_RMS_kN": 4.225732413463647,
+      "turret_moment_RMS_kNm": 20.109145091285377
+    },
+    {
+      "case": 42,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 15.363692144104686,
+      "load_magnitude_RMS_kN": 15.171846850949864,
+      "resultant_force_RMS_kN": 113.12508511684634,
+      "turret_moment_RMS_kNm": 149.67388218098728
+    },
+    {
+      "case": 42,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 14.522181688109283,
+      "load_magnitude_RMS_kN": 14.363063322873336,
+      "resultant_force_RMS_kN": 110.64345447906193,
+      "turret_moment_RMS_kNm": 114.78105050399326
+    },
+    {
+      "case": 42,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.5093910650445803,
+      "load_magnitude_RMS_kN": 1.4792132089110883,
+      "resultant_force_RMS_kN": 11.375683168933096,
+      "turret_moment_RMS_kNm": 13.005056866974718
+    },
+    {
+      "case": 42,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.42634389920094073,
+      "load_magnitude_RMS_kN": 0.409234882486414,
+      "resultant_force_RMS_kN": 2.86799022392351,
+      "turret_moment_RMS_kNm": 7.169904046284056
+    },
+    {
+      "case": 42,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 1.9205174638017026,
+      "load_magnitude_RMS_kN": 1.8886817069372341,
+      "resultant_force_RMS_kN": 12.329796028439315,
+      "turret_moment_RMS_kNm": 24.958875638075607
+    },
+    {
+      "case": 42,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.000358160340563,
+      "load_magnitude_RMS_kN": 2.972550343272614,
+      "resultant_force_RMS_kN": 21.089578528945935,
+      "turret_moment_RMS_kNm": 29.4534819255033
+    },
+    {
+      "case": 42,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.5125193991658046,
+      "load_magnitude_RMS_kN": 1.4898606141332016,
+      "resultant_force_RMS_kN": 9.828681803239714,
+      "turret_moment_RMS_kNm": 22.428819821320946
+    },
+    {
+      "case": 42,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.42634389920094073,
+      "load_magnitude_RMS_kN": 0.409234882486414,
+      "resultant_force_RMS_kN": 2.86799022392351,
+      "turret_moment_RMS_kNm": 7.169904046284056
+    },
+    {
+      "case": 42,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.170239997601126,
+      "load_magnitude_RMS_kN": 2.1352570533813413,
+      "resultant_force_RMS_kN": 12.715098035879592,
+      "turret_moment_RMS_kNm": 29.850809556745272
+    },
+    {
+      "case": 42,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.5471650381369915,
+      "load_magnitude_RMS_kN": 3.515243187363467,
+      "resultant_force_RMS_kN": 23.17828455732609,
+      "turret_moment_RMS_kNm": 41.103572978817205
+    },
+    {
+      "case": 42,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.6236865835827898,
+      "load_magnitude_RMS_kN": 1.5945569340262373,
+      "resultant_force_RMS_kN": 9.836543637045386,
+      "turret_moment_RMS_kNm": 28.628721312465427
+    },
+    {
+      "case": 42,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.6763272301918455,
+      "load_magnitude_RMS_kN": 0.6619814300400092,
+      "resultant_force_RMS_kN": 3.312423368881804,
+      "turret_moment_RMS_kNm": 14.117589287639426
+    },
+    {
+      "case": 43,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 20.791890392127097,
+      "load_magnitude_RMS_kN": 20.684232504946987,
+      "resultant_force_RMS_kN": 155.57462432993495,
+      "turret_moment_RMS_kNm": 115.02381563392696
+    },
+    {
+      "case": 43,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 10.369233235581914,
+      "load_magnitude_RMS_kN": 10.008667211754284,
+      "resultant_force_RMS_kN": 65.99641475750249,
+      "turret_moment_RMS_kNm": 182.72383439630488
+    },
+    {
+      "case": 43,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.6365431678908071,
+      "load_magnitude_RMS_kN": 1.580991459564682,
+      "resultant_force_RMS_kN": 10.722669417211295,
+      "turret_moment_RMS_kNm": 31.24410325833389
+    },
+    {
+      "case": 43,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.359546520504441,
+      "load_magnitude_RMS_kN": 0.343233349476317,
+      "resultant_force_RMS_kN": 2.441075667535415,
+      "turret_moment_RMS_kNm": 5.805534816582112
+    },
+    {
+      "case": 43,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.2496361321704694,
+      "load_magnitude_RMS_kN": 2.201620301015889,
+      "resultant_force_RMS_kN": 12.509668469892512,
+      "turret_moment_RMS_kNm": 35.84640546507096
+    },
+    {
+      "case": 43,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.110161904509803,
+      "load_magnitude_RMS_kN": 2.026955636822126,
+      "resultant_force_RMS_kN": 11.073096773431885,
+      "turret_moment_RMS_kNm": 34.97183278130744
+    },
+    {
+      "case": 43,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.3080978089322173,
+      "load_magnitude_RMS_kN": 1.2784765685441308,
+      "resultant_force_RMS_kN": 8.167971139188326,
+      "turret_moment_RMS_kNm": 22.25117185614135
+    },
+    {
+      "case": 43,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.359546520504441,
+      "load_magnitude_RMS_kN": 0.343233349476317,
+      "resultant_force_RMS_kN": 2.441075667535415,
+      "turret_moment_RMS_kNm": 5.805534816582112
+    },
+    {
+      "case": 43,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.7023720350953475,
+      "load_magnitude_RMS_kN": 2.6557008848378345,
+      "resultant_force_RMS_kN": 15.563709787182185,
+      "turret_moment_RMS_kNm": 41.58526447833449
+    },
+    {
+      "case": 43,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.7366451222584978,
+      "load_magnitude_RMS_kN": 2.6339475789972195,
+      "resultant_force_RMS_kN": 15.780010248872646,
+      "turret_moment_RMS_kNm": 36.91983031685456
+    },
+    {
+      "case": 43,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.3419635760012385,
+      "load_magnitude_RMS_kN": 1.313542654239387,
+      "resultant_force_RMS_kN": 8.249994360428566,
+      "turret_moment_RMS_kNm": 22.085872166866576
+    },
+    {
+      "case": 43,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.6079872657571292,
+      "load_magnitude_RMS_kN": 0.5932971861381974,
+      "resultant_force_RMS_kN": 3.1701572235557993,
+      "turret_moment_RMS_kNm": 10.74366184127115
+    },
+    {
+      "case": 44,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 9.479454866536326,
+      "load_magnitude_RMS_kN": 9.377706494737735,
+      "resultant_force_RMS_kN": 70.09734506101861,
+      "turret_moment_RMS_kNm": 85.15583374332702
+    },
+    {
+      "case": 44,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 13.443508884249786,
+      "load_magnitude_RMS_kN": 13.368566151430631,
+      "resultant_force_RMS_kN": 102.67172099127528,
+      "turret_moment_RMS_kNm": 54.11891474818921
+    },
+    {
+      "case": 44,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.3834777725561198,
+      "load_magnitude_RMS_kN": 1.3379146506460808,
+      "resultant_force_RMS_kN": 10.53411820863364,
+      "turret_moment_RMS_kNm": 16.24342428473878
+    },
+    {
+      "case": 44,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.3901711426223065,
+      "load_magnitude_RMS_kN": 0.3747464248221964,
+      "resultant_force_RMS_kN": 2.889962747850288,
+      "turret_moment_RMS_kNm": 4.595828403352575
+    },
+    {
+      "case": 44,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 1.8079446881760364,
+      "load_magnitude_RMS_kN": 1.773947807354691,
+      "resultant_force_RMS_kN": 11.767725431591172,
+      "turret_moment_RMS_kNm": 20.767453429952184
+    },
+    {
+      "case": 44,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.3523401696575887,
+      "load_magnitude_RMS_kN": 2.305081644440716,
+      "resultant_force_RMS_kN": 13.72971286185015,
+      "turret_moment_RMS_kNm": 28.959414318520036
+    },
+    {
+      "case": 44,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.8628516070836707,
+      "load_magnitude_RMS_kN": 1.8308981231000923,
+      "resultant_force_RMS_kN": 13.387775110412433,
+      "turret_moment_RMS_kNm": 16.435303247233595
+    },
+    {
+      "case": 44,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.3901711426223065,
+      "load_magnitude_RMS_kN": 0.3747464248221964,
+      "resultant_force_RMS_kN": 2.889962747850288,
+      "turret_moment_RMS_kNm": 4.595828403352575
+    },
+    {
+      "case": 44,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 2.1042111028126333,
+      "load_magnitude_RMS_kN": 2.0679675690099932,
+      "resultant_force_RMS_kN": 13.379521357477689,
+      "turret_moment_RMS_kNm": 27.53359839328
+    },
+    {
+      "case": 44,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.1075544792379417,
+      "load_magnitude_RMS_kN": 3.0660585027069396,
+      "resultant_force_RMS_kN": 19.58158295332959,
+      "turret_moment_RMS_kNm": 42.43169817601846
+    },
+    {
+      "case": 44,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.701029162557332,
+      "load_magnitude_RMS_kN": 1.6509258204825539,
+      "resultant_force_RMS_kN": 11.320110395148884,
+      "turret_moment_RMS_kNm": 21.751821189597973
+    },
+    {
+      "case": 44,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.6247300230860975,
+      "load_magnitude_RMS_kN": 0.6101827940546877,
+      "resultant_force_RMS_kN": 3.969518193325998,
+      "turret_moment_RMS_kNm": 9.294801483111456
+    },
+    {
+      "case": 45,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 9.63334167812445,
+      "load_magnitude_RMS_kN": 9.529044244589409,
+      "resultant_force_RMS_kN": 70.7786260305393,
+      "turret_moment_RMS_kNm": 91.7585577022728
+    },
+    {
+      "case": 45,
+      "method": "vector_static",
+      "window": "transition",
+      "line_vector_RMS_kN": 12.714209018742327,
+      "load_magnitude_RMS_kN": 12.58277441666722,
+      "resultant_force_RMS_kN": 94.18103524717634,
+      "turret_moment_RMS_kNm": 127.0049474499954
+    },
+    {
+      "case": 45,
+      "method": "vector_static",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.5433736177720385,
+      "load_magnitude_RMS_kN": 1.5122021103467271,
+      "resultant_force_RMS_kN": 10.899627384405424,
+      "turret_moment_RMS_kNm": 24.19197480649093
+    },
+    {
+      "case": 45,
+      "method": "vector_static",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.4173807117240713,
+      "load_magnitude_RMS_kN": 0.4034851308391899,
+      "resultant_force_RMS_kN": 3.0661659527916876,
+      "turret_moment_RMS_kNm": 5.197320628085084
+    },
+    {
+      "case": 45,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 1.7069589955046585,
+      "load_magnitude_RMS_kN": 1.6749013703412663,
+      "resultant_force_RMS_kN": 11.127275907684766,
+      "turret_moment_RMS_kNm": 22.130435833915712
+    },
+    {
+      "case": 45,
+      "method": "vector_truncated_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 2.959453824159708,
+      "load_magnitude_RMS_kN": 2.910939580080561,
+      "resultant_force_RMS_kN": 19.33067468795341,
+      "turret_moment_RMS_kNm": 36.14598029981104
+    },
+    {
+      "case": 45,
+      "method": "vector_truncated_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.6136975780637215,
+      "load_magnitude_RMS_kN": 1.5876823725240508,
+      "resultant_force_RMS_kN": 11.618381013422889,
+      "turret_moment_RMS_kNm": 17.906967382712335
+    },
+    {
+      "case": 45,
+      "method": "vector_truncated_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.4173807117240713,
+      "load_magnitude_RMS_kN": 0.4034851308391899,
+      "resultant_force_RMS_kN": 3.0661659527916876,
+      "turret_moment_RMS_kNm": 5.197320628085084
+    },
+    {
+      "case": 45,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 1.9977162644817026,
+      "load_magnitude_RMS_kN": 1.9676695966283613,
+      "resultant_force_RMS_kN": 12.523251654939587,
+      "turret_moment_RMS_kNm": 28.098833266332026
+    },
+    {
+      "case": 45,
+      "method": "vector_persistent_rff",
+      "window": "transition",
+      "line_vector_RMS_kN": 3.524917069628242,
+      "load_magnitude_RMS_kN": 3.481422477473717,
+      "resultant_force_RMS_kN": 22.17887574799365,
+      "turret_moment_RMS_kNm": 48.65724001904577
+    },
+    {
+      "case": 45,
+      "method": "vector_persistent_rff",
+      "window": "early_hold",
+      "line_vector_RMS_kN": 1.5907403664450703,
+      "load_magnitude_RMS_kN": 1.5681055678240599,
+      "resultant_force_RMS_kN": 11.15858046942305,
+      "turret_moment_RMS_kNm": 18.259368770660586
+    },
+    {
+      "case": 45,
+      "method": "vector_persistent_rff",
+      "window": "late_hold",
+      "line_vector_RMS_kN": 0.6596056934203403,
+      "load_magnitude_RMS_kN": 0.6459671701919901,
+      "resultant_force_RMS_kN": 3.9990573287315208,
+      "turret_moment_RMS_kNm": 10.293573383988923
+    },
+    {
+      "case": 46,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 33.55249837125837,
+      "load_magnitude_RMS_kN": 33.289916871427806,
+      "resultant_force_RMS_kN": 244.7267911448659,
+      "turret_moment_RMS_kNm": 296.69404903554187
+    },
+    {
+      "case": 46,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 5.03906825215549,
+      "load_magnitude_RMS_kN": 4.95070631911107,
+      "resultant_force_RMS_kN": 33.36466587866838,
+      "turret_moment_RMS_kNm": 66.72292643096071
+    },
+    {
+      "case": 46,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 6.724223884231556,
+      "load_magnitude_RMS_kN": 6.55925414267019,
+      "resultant_force_RMS_kN": 38.11835386283574,
+      "turret_moment_RMS_kNm": 85.55116182288721
+    },
+    {
+      "case": 47,
+      "method": "vector_static",
+      "window": "overall",
+      "line_vector_RMS_kN": 11.083722815432932,
+      "load_magnitude_RMS_kN": 10.987187533093714,
+      "resultant_force_RMS_kN": 79.73894745579864,
+      "turret_moment_RMS_kNm": 118.65646985634142
+    },
+    {
+      "case": 47,
+      "method": "vector_truncated_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.029170313053613,
+      "load_magnitude_RMS_kN": 2.9958446647983754,
+      "resultant_force_RMS_kN": 21.303774364760123,
+      "turret_moment_RMS_kNm": 33.2866692740718
+    },
+    {
+      "case": 47,
+      "method": "vector_persistent_rff",
+      "window": "overall",
+      "line_vector_RMS_kN": 3.7029994488996367,
+      "load_magnitude_RMS_kN": 3.6601479938115733,
+      "resultant_force_RMS_kN": 25.29446778084921,
+      "turret_moment_RMS_kNm": 43.07286459067257
+    }
+  ],
+  "summary": {
+    "vector_static": {
+      "line_vector_RMS_kN": {
+        "mean": 22.674850240281923,
+        "case_bootstrap_95": [
+          17.346460969786847,
+          28.466750378463882
+        ]
+      },
+      "load_magnitude_RMS_kN": {
+        "mean": 22.452216253833534,
+        "case_bootstrap_95": [
+          17.176224934916174,
+          28.174933511624644
+        ]
+      },
+      "resultant_force_RMS_kN": {
+        "mean": 166.17357372297943,
+        "case_bootstrap_95": [
+          127.3132403183122,
+          208.24909038316693
+        ]
+      },
+      "turret_moment_RMS_kNm": {
+        "mean": 205.69707674210633,
+        "case_bootstrap_95": [
+          148.11211144045618,
+          269.9216320682596
+        ]
+      }
+    },
+    "vector_truncated_rff": {
+      "line_vector_RMS_kN": {
+        "mean": 3.2775573199511276,
+        "case_bootstrap_95": [
+          2.5160713411164037,
+          4.251907696386489
+        ]
+      },
+      "load_magnitude_RMS_kN": {
+        "mean": 3.2041164106557223,
+        "case_bootstrap_95": [
+          2.4586263506175587,
+          4.165813360451904
+        ]
+      },
+      "resultant_force_RMS_kN": {
+        "mean": 19.650048144813244,
+        "case_bootstrap_95": [
+          15.012587389269433,
+          25.35499697350762
+        ]
+      },
+      "turret_moment_RMS_kNm": {
+        "mean": 48.727229603245945,
+        "case_bootstrap_95": [
+          36.92610596808766,
+          63.36362555263287
+        ]
+      }
+    },
+    "vector_persistent_rff": {
+      "line_vector_RMS_kN": {
+        "mean": 3.824229693641388,
+        "case_bootstrap_95": [
+          2.920654000110987,
+          5.002284913733486
+        ]
+      },
+      "load_magnitude_RMS_kN": {
+        "mean": 3.742551486481675,
+        "case_bootstrap_95": [
+          2.8584416805389354,
+          4.898561383200251
+        ]
+      },
+      "resultant_force_RMS_kN": {
+        "mean": 22.066614997793813,
+        "case_bootstrap_95": [
+          16.853376946767312,
+          28.648098738363423
+        ]
+      },
+      "turret_moment_RMS_kNm": {
+        "mean": 55.52713141034349,
+        "case_bootstrap_95": [
+          42.91403937299536,
+          71.69556137715415
+        ]
+      }
+    }
+  },
+  "paired_memory_comparisons": {
+    "line_vector_RMS_kN": {
+      "mean_gain": -0.5466723736902607,
+      "case_bootstrap_95": [
+        -0.7913602070282517,
+        -0.3450862842653179
+      ],
+      "wins": 0
+    },
+    "load_magnitude_RMS_kN": {
+      "mean_gain": -0.5384350758259531,
+      "case_bootstrap_95": [
+        -0.7765187685650298,
+        -0.3424787239953082
+      ],
+      "wins": 0
+    },
+    "resultant_force_RMS_kN": {
+      "mean_gain": -2.416566852980573,
+      "case_bootstrap_95": [
+        -3.4511937738780674,
+        -1.5432852331280005
+      ],
+      "wins": 0
+    },
+    "turret_moment_RMS_kNm": {
+      "mean_gain": -6.79990180709755,
+      "case_bootstrap_95": [
+        -9.684730832862034,
+        -4.197031564614497
+      ],
+      "wins": 1
+    }
+  },
+  "scope": "Nine predicted line forces assembled about the moving published turret. No hull environmental load, hydrodynamic response or solved turret-bearing dynamics."
+}

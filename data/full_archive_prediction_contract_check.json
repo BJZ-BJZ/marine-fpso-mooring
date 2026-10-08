@@ -1,0 +1,30 @@
+{
+  "status": "PASS_FROZEN_PREDICTION_CONTRACTS",
+  "validation_case": 14,
+  "future_change_at_s": 70,
+  "tested_scalar_and_vector_designs": 21,
+  "maximum_prefix_difference_native_units": {
+    "nonlinear_static": 0.0,
+    "physical_rom": 0.0,
+    "anchored_linear": 0.0,
+    "anchored_tanh": 0.0,
+    "gated_linear": 0.0,
+    "gated_tanh": 0.0,
+    "dissipative_state": 0.0,
+    "fixed_physics_state": 0.0,
+    "anchored_rff": 0.0,
+    "truncated_physics_linear": 0.0,
+    "persistent_physics_linear": 0.0,
+    "truncated_physics_rff": 0.0,
+    "persistent_physics_rff": 0.0,
+    "generic_reservoir": 0.0,
+    "vector_truncated_rff": 0.0,
+    "vector_persistent_rff": 0.0,
+    "noise_truncated_w41": 0.0,
+    "noise_persistent_w41": 0.0,
+    "truncated_physics_rff_zero_record_anchor": 0.0,
+    "persistent_physics_rff_zero_record_anchor": 0.0,
+    "reservoir_zero_record_anchor": 0.0
+  },
+  "scope": "Causal future invariance, label independence and zero-record anchoring of frozen learned readouts; not physical validation, passivity or external sensor accuracy."
+}

@@ -1,0 +1,30 @@
+{
+  "version": "v0.5.0",
+  "files": {
+    ".gitattributes": "86672fc8176f8540a2c4ac1a4bea43cce0defdf44c3377b628a5f9afcdd99f7b",
+    ".github/workflows/verify.yml": "c864f1ea2f033adfac005d769741542a5bb0c411318285c72d7839beb7abf262",
+    "README.md": "2fa68770f3e2bce274d74ba03837bae5cc498055ccf1bd25d717660926a4503e",
+    "RIGHTS.md": "06684470a631e1a5d92526bead33c643f8bc268e06269c4fe9ce1f5129211adc",
+    "data/PUBLIC_RELEASE_ASSET.json": "8707bb2ba512649463fe7df26c4561bab45f49fa2ada2fba3f7b7402d11bab3f",
+    "data/causal_endpoint_metrics.json": "aa0c82d786ddd7ba58a4e2727268c32c521d83947b516bfaf261631160d1d688",
+    "data/example_case32.npz": "809c3b014a64e873ff1c5cae24f81fd6a296db259cdaf1efe8e21d4ac5aaf3d3",
+    "data/example_case32_predictions.npz": "472934baab78674f93d0d44ab1dd7186df76e79bcd1a5a2223ff7c7bcc293aa1",
+    "data/fresh_endpoint_metrics.json": "b356028e1ad0dedfb0c6e27fe3e044d0d2f6decfb0faf5d28b87657e07fcd54e",
+    "data/fresh_memory_confirmation.json": "e777b064eeee6274daeb469db0729cb388fa4a549d15e66af97662b5585a2825",
+    "data/fresh_vector_metrics.json": "353cd1ca40686df4125b58edf263629d1857b90bd733cf678f79836bd1aec9e2",
+    "data/full_archive_prediction_contract_check.json": "969be2ae9bbe43bd6c9ab9a94fbe98e08c9bbd31613622d57441b4432a35cf52",
+    "data/full_archive_state_math_check.json": "c7af9d674c01369197784eab8709c1f0a026eb0680cc2c9182e2152d0c2c1456",
+    "data/full_archive_verification.json": "6bc2ca9d3cb8a92b645d365f57550b2d42db8888a272cbefdbb1e7412d5b2a21",
+    "data/independent_endpoint_verification.json": "6bc2ca9d3cb8a92b645d365f57550b2d42db8888a272cbefdbb1e7412d5b2a21",
+    "data/load_directed_projection.npz": "97c7ac1b8384fdff0a76d51780734259cb312cc2faa61d39721067566f6106f3",
+    "data/state_math_check.json": "c7af9d674c01369197784eab8709c1f0a026eb0680cc2c9182e2152d0c2c1456",
+    "figures/fig1_rmse_by_noise_setting.png": "8854478a10ed0d09464964a159890305e62d8cf18028646a15b2591cb22ccd59",
+    "figures/fig2_case32_tension_timeseries.png": "44b6aa8cce7f2de90874259ad268765fecfb15ef62341219e591698e1f9369c0",
+    "figures/make_figures.py": "ce29eb5bf3e60bf3041ec1a75594ca56da3dfc7f5c400a088c11f8e2c361a62b",
+    "requirements.txt": "7bd6b8946940b79948c548c8048e545684b91c8edc9444d8dfc0c8f76a97c0a7",
+    "src/demo.py": "0c7424876c76cce3adedcf95312f0f8def05d1bcadf261bf846e9ca1cdb57727",
+    "src/physical_state.py": "982cd93f9946ea51ffc717bc0d839737ef3176f2407986beb4ca98bd39e9faa6",
+    "src/verify.py": "7e2d9b3464bb3a5a7f634e523e4537c2da538120864b719d0666f179dcfb7aeb",
+    "tests/test_fpso_mooring.py": "930c00bc265c693e9809e8f713fcc6d65915d08a8ded6e4d7e59cdd5d05540e4"
+  }
+}
